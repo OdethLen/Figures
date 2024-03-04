@@ -21,7 +21,7 @@ namespace Figures
 
         public  double Perimeter()
         {
-            return Side * 4;
+            return Side *4;
         }
 
         public double Area()
